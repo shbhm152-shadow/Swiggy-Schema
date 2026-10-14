@@ -1,5 +1,4 @@
 # Swiggy-Schema
-Swiggy Database Schema Design
 
 A database schema design project that models the core workflow of a food delivery platform inspired by Swiggy. It describes how customers discover restaurants, place orders, make payments, and receive deliveries.
 
